@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/VE280/projects/p1test/cmake-build-debug/CMakeFiles/p1test.dir
+C:/Users/Administrator/Desktop/VE280/projects/p1test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/VE280/projects/p1test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

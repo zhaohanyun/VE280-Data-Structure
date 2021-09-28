@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/p2.h
+recursive.h
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/recursive.h
+
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/recursive.h
+
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/treeins_test.cpp
+iostream
+-
+recursive.h
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/recursive.h
+p2.h
+C:/Users/Administrator/Desktop/VE280/projects/p2/p2/p2.h
+

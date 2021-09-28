@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/simulation.cpp
+iostream
+-
+fstream
+-
+simulation.h
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/simulation.h
+world_type.h
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/world_type.h
+
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/simulation.h
+iostream
+-
+fstream
+-
+sstream
+-
+iomanip
+-
+string
+-
+cstdlib
+-
+cassert
+-
+world_type.h
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/world_type.h
+
+C:/Users/Administrator/Desktop/VE280/projects/p3/p3/world_type.h
+string
+-
+
